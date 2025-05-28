@@ -1,0 +1,39 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 30px;
+}
+
+#text-display {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+#text-input {
+  width: 80%;
+  height: 100px;
+  font-size: 18px;
+}
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+}
+
+button {
+  background-color: rgb(0, 157, 255);
+  border: none;
+  padding: 10px 20px;
+  margin-left: 10px;
+  border-radius: 8px;
+  color: white;
+  font-size: 18px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: rgb(1, 128, 206);
+}
