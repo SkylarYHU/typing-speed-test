@@ -3,7 +3,6 @@
 A simple typing speed test web app built with JavaScript.  
 Practice typing random sentences, track your accuracy and words per minute (WPM) in real-time, and see your final results when finished.
 
----
 
 ## Features
 
@@ -14,8 +13,7 @@ Practice typing random sentences, track your accuracy and words per minute (WPM)
 - Start, submit, and restart controls for convenient testing  
 - Disable input after finishing the test to prevent further typing  
 
----
 
 ## Live View
-[Live Demo URL](https://demo-link.com) 
+[Live Demo URL](https://skylaryhu.github.io/typing-speed-test/) 
 
